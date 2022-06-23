@@ -1,3 +1,8 @@
-h1 {
+.header.home {
     text-align: center;
+    font-family: fantasy, sans-serif;
+    border-style: double;
+    border-color: pink;
+    color:rgb(52, 239, 161)
 }
+
